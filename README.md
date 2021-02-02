@@ -9,10 +9,10 @@ All right, here we go:
 
 # Hi, Let's call me Austine.
 - 👨🏾‍💻 Python :snake:, Flask, RESTfull API, JavaScript, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
-- 🔭 I’m currently working on a budgeting App JavaScript Front-end and Python RESTful :sleeping: Back-end.
+- 🔭 I’m currently working on a budgeting App with JavaScript Front-end and Python RESTful :sleeping: Back-end.
 - 🌱 I’m currently learning Angular, React , Algorithms and Data structures.
 - 👯 I’m looking to collaborate on exciting software projects
-- :sunglasses: I debug for lunch :bug: :beetle: 
+- :sunglasses: I debug for :bug: :beetle: lunch 
 - 💬 Ask me about anything! 
 - 📫 How to reach me: writemeka.n@gmail.com
 - 😄 Pronouns: Him/He :older_man:
