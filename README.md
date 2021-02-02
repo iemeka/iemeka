@@ -8,7 +8,6 @@ alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" />
 Alright, here we go:
 
 # Hi, Let's call me Austine.
----
 - 👨🏾‍💻 Python :snake:, Flask, RESTfull API, JavaScript, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
 - 🔭 I’m currently working on a budgeting App JavaScript Front-end and Python RESTful :sleeping: Back-end.
 - 🌱 I’m currently learning Angular, React , Algorithms and Data structures.
