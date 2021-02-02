@@ -1,5 +1,5 @@
 
-<img align=left src="https://raw.githubusercontent.com/iemeka/guess-game/gh-pages/assets/img/pnghut_cartoon(1).png" 
+<img align=center src="https://raw.githubusercontent.com/iemeka/guess-game/gh-pages/assets/img/pnghut_cartoon(1).png" 
 alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" />
 
 ---
