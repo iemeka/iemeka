@@ -1,9 +1,10 @@
 
+<p>
 <img align=left src="https://raw.githubusercontent.com/iemeka/guess-game/gh-pages/assets/img/pnghut_cartoon(1).png" 
 alt="IMAGE ALT TEXT HERE" width="440" height="380" border="0" />
 
 ![Metrics](https://metrics.lecoq.io/iemeka?template=classic&config.timezone=Africa%2FLagos&config.animated=true)
-
+</p>
 ---
 
 #### Oy!, didn't see you! Hi there 👋 ... I am usually not like the picture above. :persevere:
