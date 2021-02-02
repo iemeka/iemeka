@@ -8,20 +8,19 @@ alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" />
 
 Alright, here we go:
 
-# Hi, Let's call me Austine. 
+# Hi, Let's call me Austine. (I know, yea. It's not short for Augustine.)
 ---
 - 👨🏾‍💻 Python :snake:, Flask, RESTfull API, JavaScript, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
 - 🔭 I’m currently working on a budgeting App JavaScript Front-end and Python RESTful :sleeping: Back-end.
 - 🌱 I’m currently learning Angular, React , Algorithms and Data structures.
 - 👯 I’m looking to collaborate on exciting software projects
-- 🤔 I’m looking for help with ...
+- :sunglasses: I debug for lunch :bug: :beetle: 
 - 💬 Ask me about anything! 
 - 📫 How to reach me: writemeka.n@gmail.com
 - 😄 Pronouns: Him/He :older_man:
-- ⚡ Fun fact: When am not like the picture above, I am like the picture below :grin:
+- ⚡ Fun fact: When am not like the picture above, I am ~~(also not)~~ like the picture below :grin:
 
 <p align=center >
   <img src="https://raw.githubusercontent.com/iemeka/guess-game/gh-pages/assets/img/pnghut_cartoon%20(1).png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="800" border="10" />
 </p>
-
