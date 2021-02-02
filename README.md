@@ -12,7 +12,7 @@ All right, here we go:
 - 🔭 I’m currently working on a budgeting App with JavaScript Front-end and Python RESTful :sleeping: Back-end.
 - 🌱 I’m currently learning Angular, React , Algorithms and Data structures.
 - 👯 I’m looking to collaborate on exciting software projects
-- :sunglasses: I debug for :bug: :beetle: lunch 
+- :sunglasses: I debug :bug: :beetle: for lunch 
 - 💬 Ask me about anything! 
 - 📫 How to reach me: writemeka.n@gmail.com
 - 😄 Pronouns: Him/He :older_man:
