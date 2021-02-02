@@ -5,7 +5,7 @@ alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" />
 
 #### Oy!, didn't see you! Hi there 👋 ... I am usually not like the picture above. :persevere:
 
-Alright, here we go:
+All right, here we go:
 
 # Hi, Let's call me Austine.
 - 👨🏾‍💻 Python :snake:, Flask, RESTfull API, JavaScript, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
