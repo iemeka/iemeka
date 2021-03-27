@@ -15,9 +15,4 @@ All right, here we go:
 - 💬 Ask me about anything! 
 - 📫 How to reach me: writemeka.n at gmail dot com
 - 😄 Pronouns: Him/He :older_man:
-- ⚡ Fun fact: When I am not like the picture above, I am ~~(also not)~~ like the picture below :grin:
 
-<p align=center >
-  <img src="https://raw.githubusercontent.com/iemeka/guess-game/gh-pages/assets/img/pnghut_cartoon%20(1).png" 
-alt="IMAGE ALT TEXT HERE" width="500" height="800" border="10" />
-</p>
