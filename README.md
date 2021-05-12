@@ -2,7 +2,7 @@
 alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" />
 
 # Hi, Let's call me Austine.
-- My current skillsets are 👨🏾‍💻 Python :snake:, Flask, Django, RESTfull API, JavaScript, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
+- My current skillsets are 👨🏾‍💻 Python :snake:, Flask, Django, RESTfull API, JavaScript/React, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
 - 🧠 I’m currently learning React.
 - 🖥 I have a solid understanding of Data Structures and Algorithms & have solved over 250 questions on [Leetcode](https://leetcode.com/0emeka/) 
 - 👯 I’m looking to collaborate on exciting software projects
