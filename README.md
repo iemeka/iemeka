@@ -1,6 +1,6 @@
 
 - My current skillsets are 👨🏾‍💻  JavaScript/React, Python :snake:, Flask, Django, RESTfull API, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
-- 🧠 I’m currently learning React.
+- 🧠 I’m currently learning Node.
 - 🖥 I have a solid understanding of Data Structures and Algorithms & have solved over 250 questions on [Leetcode](https://leetcode.com/0emeka/) 
 - 👯 I’m looking to collaborate on exciting software projects
 - :sunglasses: I debug :bug: :beetle: for lunch 
