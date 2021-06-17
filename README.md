@@ -1,9 +1,14 @@
 
-- My current skillsets are 👨🏾‍💻  JavaScript/React, Python :snake:, Flask, Django, RESTfull API, HTML, CSS, BootStrap, PostgreSQL, Numpy, Pandas, Scikit-learn, Scipy, Linux, Selenium, Beautiful Soup :ramen:
-- 🧠 I’m currently learning Node.
-- 🖥 I have a solid understanding of Data Structures and Algorithms & have solved over 250 questions on [Leetcode](https://leetcode.com/0emeka/) 
-- 👯 I’m looking to collaborate on exciting software projects
-- :sunglasses: I debug :bug: :beetle: for lunch 
-- 💬 Ask me about anything! 
-- 📫 How to reach me: writemeka.n at gmail dot com
-- 😄 Pronouns: Him/He :older_man:
+- My frontend skillsets :
+  - JavaScript
+  - ReactJS 
+  - NodeJS
+  - HTML5/CSS3
+- Other skillsets :
+  - Python
+  - Django/Flask
+  - Solid understanding of Data structures and Algorithms.
+  
+Currently looking for frontend engineering opportunities (open to remote and relocation)
+
+https://iemeka.github.io/
