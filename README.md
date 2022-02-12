@@ -8,7 +8,6 @@
   - Data Analytics
   - Python
   - Django/Flask
-  - Solid understanding of Data structures and Algorithms.
  
 
 Website - https://iemeka.github.io/
